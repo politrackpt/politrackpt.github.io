@@ -58,7 +58,7 @@ features                                  :
   
   - title                                 : Pesquise por iniciativas
     description                           : Utilize a barra de pesquisa para encontrar iniciativas por palavra-chave.
-    fontawesome_icon_name                 : searchengin
+    fontawesome_icon_name                 : plus
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
