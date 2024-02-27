@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : PoliTrack                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Instala Gratuitamente                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Democracia. Nas tuas mãos. A qualquer hora.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -58,7 +58,7 @@ features                                  :
   
   - title                                 : Pesquise por iniciativas
     description                           : Utilize a barra de pesquisa para encontrar iniciativas por palavra-chave.
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : searchengin
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
