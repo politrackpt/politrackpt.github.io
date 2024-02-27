@@ -36,24 +36,24 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Mantenha-se informado
+    description                           : Esteja atento às mais recentes iniciativas apresentadas pelos partidos na assembleia da república e mantenha-se informado.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Leia na íntegra
+    description                           : Abra uma iniciativa, clique em "Ver mais" e leia o documento completo.
+    fontawesome_icon_name                 : magic
+    
+  - title                                 : Guarde para ler mais tarde
+    description                           : Adiciona uma iniciativa à sua lista de guardados para ler mais tarde.
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Iniciativas por partido
+    description                           : Aceda ao perfil de um partido e veja todas as iniciativas que este apresentou.
+    fontawesome_icon_name                 : play-circle
+
+  - title                                 : Classifique as iniciativas
+    description                           : Dê a sua opinião sobre as iniciativas apresentadas pelos partidos.
     fontawesome_icon_name                 : adjust
   
   - title                                 : Feature List
