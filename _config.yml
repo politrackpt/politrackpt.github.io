@@ -38,27 +38,27 @@ features                                  :
 
   - title                                 : Mantenha-se informado
     description                           : Esteja atento às mais recentes iniciativas apresentadas pelos partidos na assembleia da república e mantenha-se informado.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : star
 
   - title                                 : Leia na íntegra
     description                           : Abra uma iniciativa, clique em "Ver mais" e leia o documento completo.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : book
     
   - title                                 : Guarde para ler mais tarde
     description                           : Adiciona uma iniciativa à sua lista de guardados para ler mais tarde.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : bookmark
 
   - title                                 : Iniciativas por partido
     description                           : Aceda ao perfil de um partido e veja todas as iniciativas que este apresentou.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : landmark
 
   - title                                 : Classifique as iniciativas
     description                           : Dê a sua opinião sobre as iniciativas apresentadas pelos partidos.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : thumbs-up
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Pesquise por iniciativas
+    description                           : Utilize a barra de pesquisa para encontrar iniciativas por palavra-chave.
+    fontawesome_icon_name                 : magnifying-glass
 
   - title                                 : Smart App Banner
     description                           : Display a smart app banner on iOS devices.
