@@ -45,7 +45,7 @@ features                                  :
     fontawesome_icon_name                 : book
     
   - title                                 : Guarde para ler mais tarde
-    description                           : Adiciona uma iniciativa à sua lista de guardados para ler mais tarde.
+    description                           : Adicione uma iniciativa à sua lista de guardados para ler mais tarde.
     fontawesome_icon_name                 : bookmark
 
   - title                                 : Iniciativas por partido
