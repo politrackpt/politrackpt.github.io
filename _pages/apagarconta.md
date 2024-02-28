@@ -8,17 +8,21 @@ include_in_header: false
 
 ### Aceda a definições
 Estando com a sua sessão iniciada, acesse ao menu lateral e clique em definições no canto inferior esquerdo
-![](../assets/apagarconta/1.png)
+
+<img src="../assets/apagarconta/1.png" width=300>
 
 
 ### Clique em "Apagar Conta"
 A partir das definições, clique em "Apagar Conta"
-![](../assets/apagarconta/2.png)
+
+<img src="../assets/apagarconta/2.png" width=300>
 
 ### Confirme a sua Password
 Introduza a sua password da conta de PoliTrack para confirmar que deseja apagar a sua conta.
-![](../assets/apagarconta/3.png)
+
+<img src="../assets/apagarconta/3.png" width=300>
 
 ### Apague a Conta
-Clique em "Confirmar" e a sua conta irá ser apagada
-![](../assets/apagarconta/4.png)
+Clique em "Confirmar" e a sua conta irá ser apagada.
+
+<img src="../assets/apagarconta/4.png" width=300>
