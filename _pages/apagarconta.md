@@ -26,3 +26,7 @@ Introduza a sua password da conta de PoliTrack para confirmar que deseja apagar 
 Clique em "Confirmar" e a sua conta irá ser apagada.
 
 <img src="../assets/apagarconta/4.png" width=300>
+
+# O que é apagado?
+
+Apagando a sua conta PoliTrack, nós apagaremos todos os seus dados como o nome de utilizar, a password, os seus likes, dislikes e iniciativas guardadas da nossa base de dados.
