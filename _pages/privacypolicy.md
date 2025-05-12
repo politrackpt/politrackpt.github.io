@@ -9,7 +9,7 @@ February 27 2024
 
 TERMS AND CONDITIONS
 
-Last updated February 27, 2024
+Last updated May 12, 2025
 
 
 
@@ -196,7 +196,62 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
 12\. PRIVACY POLICY
 
-We care about data privacy and security. By using the Services, you agree to be bound by our Privacy Policy posted on the Services, which is incorporated into these Legal Terms. Please be advised the Services are hosted in Portugal. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in Portugal, then through your continued use of the Services, you are transferring your data to Portugal, and you expressly consent to have your data transferred to and processed in Portugal.
+We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our app (“Services”).
+
+If you do not agree with the terms of this policy, please do not use the Services.
+
+1\. Data We Collect
+
+We may collect the following types of data:
+
+- Personal Information (name)
+- Email address (used for account creation and password recovery via Firebase Authentication)
+- Usage Data
+- App Interaction Data
+
+2\. How We Use Your Data
+
+We use your data to:
+
+- Authenticate users and manage logins
+- Allow password resets via Firebase Authentication
+- Improve app performance and user experience
+- Monitor usage for analytics and bug tracking
+
+3\. Third-Party Services
+
+We use the following third-party services that may process your data:
+
+- Firebase Authentication (Google LLC) - for managing sign-ins and password recovery
+- Firebase Auth Privacy
+- Firebase Analytics - for tracking app usage and diagnostics
+- Firebase Analytics Privacy
+
+These services may store data on servers outside your country of residence, including in the EU and the US.
+
+4\. Data Storage and Transfers
+
+All personal data is stored and processed in Portugal. By using our Services, you consent to the transfer of your information to, and storage in, Portugal or other jurisdictions where our partners operate.
+
+5\. Your Rights
+
+You have the right to:
+
+- Access the personal data we hold about you
+- Request correction or deletion of your data
+- Withdraw consent to data processing (where applicable)
+- Request account deletion within the app or by contacting us directly
+
+To exercise these rights, contact us at: politrackpt@gmail.com
+
+6\. Data Retention
+
+We retain your personal data only as long as necessary to provide the Services or comply with legal obligations. When no longer needed, your data will be securely deleted.
+
+7\. Children's Privacy
+
+Our Services are not directed at children under the age of 13. We do not knowingly collect personal data from children. If you believe we have collected data from a child, please contact us immediately.
+
 
 13\. TERM AND TERMINATION
 
