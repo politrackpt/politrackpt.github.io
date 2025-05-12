@@ -223,9 +223,7 @@ We use your data to:
 We use the following third-party services that may process your data:
 
 - Firebase Authentication (Google LLC) - for managing sign-ins and password recovery
-- Firebase Auth Privacy
 - Firebase Analytics - for tracking app usage and diagnostics
-- Firebase Analytics Privacy
 
 These services may store data on servers outside your country of residence, including in the EU and the US.
 
