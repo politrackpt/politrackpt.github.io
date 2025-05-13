@@ -5,12 +5,9 @@ include_in_header: true
 ---
 
 **Last updated**  
-February 27 2024
+May 12 2025
 
 TERMS AND CONDITIONS
-
-Last updated May 12, 2025
-
 
 
 AGREEMENT TO OUR LEGAL TERMS
